@@ -30,6 +30,9 @@ public class Splash extends JFrame {
         img.setBorder(border);
         add(img);
 
+
+
+
         setSize(1200, 800);
         setLocation(150,70);
         getContentPane().setBackground(new Color(0,0,0));
