@@ -10,8 +10,6 @@ public class Splash extends JFrame {
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLayout(null);
 
-
-
         heading = new JLabel("INVENTORY MANAGEMENT SYSTEM", SwingConstants.CENTER);
         heading.setBounds(0, 0, 1200, 60);
         heading.setOpaque(true);
