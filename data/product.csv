@@ -1,0 +1,21 @@
+ProductID,ProductName,Category,Price,StockQuantity
+1001,"15"" Ultra Laptop",Electronics,1299.99,45
+1002,Mechanical Keyboard,Accessories,115.5,180
+1003,Wireless Mouse,Accessories,25,320
+1004,"27"" 4K Monitor",Electronics,499,70
+1005,USB-C Hub (7-in-1),Accessories,45.99,210
+1006,Noise Cancelling Headphones,Audio,199.99,90
+1007,Portable Bluetooth Speaker,Audio,75,150
+1008,Python Reference Guide,Books,35.75,110
+1009,Java Cookbook,Books,42.99,85
+1010,Mesh Wi-Fi Router,Networking,150,60
+1011,External SSD (1TB),Storage,89.99,130
+1012,Webcam (1080p),Peripherals,39.99,250
+1013,Adjustable Standing Desk,Furniture,280.5,30
+1014,Ergonomic Office Chair,Furniture,190,55
+1015,Smartphone Tripod,Accessories,12.99,400
+1016,Fitness Tracker,Wearables,95,165
+1017,Smart Home Thermostat,Smart Home,149.95,75
+1018,Rechargeable AA Batteries (4-pk),Power,18,290
+1019,Security Camera (Outdoor),Smart Home,110.5,80
+1020,Graphic Tablet,Graphics,250.99,40
