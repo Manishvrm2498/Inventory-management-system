@@ -28,7 +28,9 @@ public class Splash extends JFrame {
         JLabel img = new JLabel(img3);
         img.setBounds(0, 0, 1200, 800);
         img.setBorder(border);
+        img.setOpaque(true);
         add(img);
+
 
 
 
