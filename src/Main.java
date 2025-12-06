@@ -1,8 +1,8 @@
-import java.awt.*;
-import javax.swing.*;
 
    class Main{
     public static void main(String[] args) {
+//        new Login();
         new Splash();
+
     }
 }
